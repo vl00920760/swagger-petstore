@@ -8,6 +8,6 @@ metadata:
     github.com/project-slug: vl00920760/swagger-petstore
     lighthouse.com/website-url: https://backstage.io
 spec:
-  type: library
+  type: OpenAPI
   owner: vivek
   lifecycle: experimental
